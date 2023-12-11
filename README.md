@@ -10,7 +10,9 @@ No repositório **Trabalho_Banco_Java_POO**, é possível encontrar o código co
 Implementar um sistema para uma instituição financeira utilizando a linguagem Java, aplicando conceitos vistos na disciplina, como classes, objetos, herança e polimorfismo.
 
 
-
-
-
+## 💻 Visão Geral
+O programa é capaz de fazer operações como: 
+- Cadastro de clientes e funcionários
+- Impressão dos dados dos clentes e funcionários
+- Fazer operações bancárias como: saque, depósito, pagar conta, consultar saldo, consultar extrato.
 
