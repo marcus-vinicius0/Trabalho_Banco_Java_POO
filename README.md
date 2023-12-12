@@ -13,6 +13,6 @@ Implementar um sistema para uma instituição financeira utilizando a linguagem 
 ## 💻 Visão Geral
 O programa é capaz de fazer operações como: 
 - Cadastro de clientes e funcionários
-- Impressão dos dados dos clentes e funcionários
+- Impressão dos dados dos clientes e funcionários
 - Fazer operações bancárias como: saque, depósito, pagar conta, consultar saldo, consultar extrato.
 
